@@ -37,7 +37,7 @@ section:not(#galery) {
 
 .card-index:not(galery.html){
   color: var(--clr-neutral-100);
-  background-image:url(img/Penulis.JPG);
+  background-image:url(img/Penulis.jpg);
   background-size: cover;
   padding: 10rem 0 0;
   max-width: 55ch;
